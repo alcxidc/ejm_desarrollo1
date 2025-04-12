@@ -1,0 +1,23 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+#ejemplo1{
+    background-color: #f1a20b;
+    width: 500px;
+    height:100px;
+}
+
+#ejemplo2{
+    background-color: #f1a20b;
+    width: 500px;
+    height:100px;
+    border: 10px solid red;
+}
+
+#ejemplo3{
+    background-color: #f1a20b;
+    width: 500px;
+    height:100px;
+    border: 10px solid red;
+    padding: 20px;
+}
